@@ -1,0 +1,11 @@
+streamlit>=1.23.0
+msal>=1.22.0
+requests>=2.31.0
+openai>=1.0.0
+pandas>=2.0.0
+PyMuPDF>=1.23.0   # fitz -> para convertir PDF a PNG sin poppler
+python-dotenv>=1.0.0
+streamlit
+requests
+openai
+msal

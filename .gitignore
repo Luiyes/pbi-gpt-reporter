@@ -1,0 +1,17 @@
+# Entorno/artefactos Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Config/secretos locales
+.streamlit/secrets.toml
+.env
+*.env
+
+# Archivos temporales SO/editores
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
